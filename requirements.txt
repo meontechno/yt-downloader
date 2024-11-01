@@ -1,4 +1,1 @@
-fire==0.7.0
-pytube==15.0.0 # is no longer supported and clientVersion configuration needs update https://github.com/pytube/pytube/issues/2062
-pytubefix==8.2.0 # Use this instead
-moviepy==1.0.3
+pytubefix==8.2.0
